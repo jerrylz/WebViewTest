@@ -1,0 +1,126 @@
+<div class="container">
+
+    <div class="container-inner" onclick="routerEvent"  style="">
+        <div class="row begin" style="">
+            <image src="/common/card_logo@3x.png" class="icon"></image>
+            <text class="ltitle" style="display: none;" >农业银行金融小店</text>
+            <text class="ltitle">{{title}}</text>
+        </div>
+    <!--精选产品 begin-->
+        <div class="part none" >
+            <div class="row begin margin8" >
+                <div class="head-title-icon"></div>
+                <text class=" title">精选产品</text>
+            </div>
+            <div class="row space-between line2" style="" >
+                <div class="row_c " style="width: 70%;">
+                    <text class="ltitle red ">
+                        2.95%-2.98%
+                    </text>
+                    <text class="detail_text">
+                        预期年化收益
+                    </text>
+                </div>
+                <div class="row_c " style=" ">
+                    <text class="title " style="">
+                        “安心·62天”人民币理安心·62天”人民币理
+                    </text>
+                    <text class="detail_text" style="opacity: 0.6;">
+                        一万元起购 62天 全国
+                    </text>
+                </div>
+            </div>
+            <div class="row space-between line2" style="">
+                <div class="row_c " style="width: 70%;">
+                    <text class="ltitle red ">
+                        2.95%-2.98%
+                    </text>
+                    <text class="detail_text">
+                        预期年化收益
+                    </text>
+                </div>
+                <div class="row_c " style=" ">
+                    <text class="title " style="">
+                        “安心·62天”人民币理安心·62天”人民币理
+                    </text>
+                    <text class="detail_text" style="opacity: 0.6;">
+                        一万元起购 62天 全国
+                    </text>
+                </div>
+            </div>
+        </div>
+    <!--精选产品 end-->
+    <!--专属服务 begin-->
+        <div class="part">
+            <div class="row begin margin8" style="">
+                <div class="head-title-icon"></div>
+                <text class=" title">专属服务</text>
+            </div>
+
+            <div class="row serviceline margin8 space-between">
+                <div class="row_c">
+                    <div  class="service_img">
+                        <image src="/common/icon1.png"></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">掌银下载</text>
+                </div>
+                <div class="row_c">
+                    <div  class="service_img">
+                        <image src="/common/icon2.png"></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">助业快e贷</text>
+                </div>
+                <div class="row_c" >
+                    <div  class="service_img">
+                        <image src="/common/icon3.png"></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">纪念币预约</text>
+                </div>
+            </div>
+        </div>
+    <!--专属服务 end-->
+    <!--信用卡申请 begin-->
+        <div class="part">
+            <div class="row begin margin8" style="">
+                <div class="head-title-icon"></div>
+                <text class=" title">信用卡申请</text>
+            </div>
+            
+            <div class="row imgline margin8 space-between">
+                <div class="row_c">
+                    <div  class="credit_img">
+                        <image src="/common/img_CreditCard1@3x.png"></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">国家宝藏信用卡</text>
+                </div>
+                <div class="row_c" >
+    <!--                <div  class="credit_img">-->
+    <!--                    <image src="/common/img_CreditCard1@3x.png"></image>-->
+    <!--                </div>-->
+                    <div  class="credit_img">
+                        <image class="colimg" src="/common/img_CreditCard4@3x.png" style=""></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">国家宝藏信用卡</text>
+                </div>
+            </div>
+            <div class="row imgline none margin8">
+                <div class="row_c" style="margin-right: 25px;">
+                    <div  class="credit_img">
+                        <image src="/common/img_CreditCard1@3x.png"></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">国家宝藏信用卡</text>
+                </div>
+                <div class="row_c" >
+                <!--                <div  class="credit_img">-->
+                <!--                    <image src="/common/img_CreditCard1@3x.png"></image>-->
+                <!--                </div>-->
+                    <div  class="credit_img">
+                        <image class="colimg" src="/common/img_CreditCard4@3x.png" style=""></image>
+                    </div>
+                    <text class="mtext credit_tit" style="">国家宝藏信用卡</text>
+                </div>
+            </div>
+        </div>
+    <!--信用卡申请 end-->
+    </div>
+</div>

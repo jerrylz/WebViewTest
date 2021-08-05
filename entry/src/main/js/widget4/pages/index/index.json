@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "TitleTitleTitleTitleTitleTitleTitleTitle",
+    "detail": "TextTextTextTextTextTextTextTextTextText",
+    "iconTitle": "Picture"
+  },
+  "actions": {
+    "routerEvent": {
+      "action": "router",
+      "bundleName": "com.example.abcwebview",
+      "abilityName": "com.example.abcwebview.MainAbility",
+      "params": {
+        "message": "add detail"
+      }
+    }
+  }
+}

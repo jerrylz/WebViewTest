@@ -1,0 +1,70 @@
+<div class="container">
+<!--    <stack>-->
+    <div class="container-inner" onclick="routerEvent">
+        <div class="row" style="height: 25px;">
+            <image src="/common/card_logo@3x.png" class="icon"></image>
+            <text class="ltitle">农业银行基金收益</text>
+        </div>
+        <div class="row space-between li" style="height: 60px;">
+            <text class="detail_text" style="width: 40%;">名称</text>
+            <text class="detail_text">金额/昨日收益</text>
+            <text class="detail_text">持有收益/率</text>
+        </div>
+        <list>
+
+            <list-item class="row space-between li">
+                <div class="ele">
+                    <text class="mtext" style="width: 40%;">易方达供给改革灵活配置混合</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext">25800.00</text>
+                    <text class="mtext red font10">+277.00</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext red">+5800.00</text>
+                    <text class="mtext red font10">+25.20%</text>
+                </div>
+            </list-item>
+            <list-item class="row space-between li">
+                <div class="ele">
+                    <text class="mtext" style="width: 40%;">富国军工主题混合A</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext">15849.00</text>
+                    <text class="mtext green font10">-47.00</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext red">+2233.00</text>
+                    <text class="mtext red font10">+16.66%</text>
+                </div>
+            </list-item>
+            <list-item class="row space-between li">
+                <div class="ele">
+                    <text class="mtext" style="width: 40%;">中欧时代先锋股票</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext">25800.00</text>
+                    <text class="mtext red font10">+288.00</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext green">-5800.00</text>
+                    <text class="mtext green font10">-25.20%</text>
+                </div>
+            </list-item>
+            <list-item class="row space-between li">
+                <div class="ele">
+                    <text class="mtext" style="width: 40%;">招商中证白酒指数(LOF)A</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext">25800.00</text>
+                    <text class="mtext red font10">+277.00</text>
+                </div>
+                <div class="ele">
+                    <text class="mtext red">+5800.00</text>
+                    <text class="mtext red font10">+25.20%</text>
+                </div>
+            </list-item>
+        </list>
+    </div>
+<!--    </stack>-->
+</div>
